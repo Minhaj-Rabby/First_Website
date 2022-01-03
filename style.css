@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+}
+.main-contaner{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    flex-direction: column;
+    width: 60%;
+    display: flex;
+}
+.section1{
+    /* background-color: bisque; */
+    padding: 20px 30px;
+    display: flex;
+    flex-direction: row;
+}
+.section1-1{
+    padding: 25px;
+    width: 50%;
+    margin-top: 50px;
+    justify-content: center;
+}
+.order{
+    background-image: linear-gradient(to right,#FA9249,#FD4E30);
+    color: black;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 15px;
+    padding: 10px;
+}
+.section1-2{
+    padding: 10px;
+    justify-content: center;
+}
+.section2{
+        background-image: url("images/shapes/7.png");  
+        background-size: 100% 100%; 
+        background-repeat: no-repeat; 
+        background-color: rgba(255, 235, 205, 0.575);
+        flex-direction: row;
+        display: flex;  
+        margin-bottom: 0px;     
+}
+.section2-1{
+        padding-top: 70px;
+        padding-left: 120px;
+        justify-content: center;
+        width: 45%;
+}
+.section2-2{
+    padding-top: 80px;
+    padding-left: 10px;
+}
+
+.section3{
+    margin-top: 50px;
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align: center;
+    
+}
+.section4{
+    /* background-color: bisque; */
+    padding: 20px 60px;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    
+}
+
+.section5{
+    margin: 50px 50px;
+    /* background-color: bisque; */
+    padding: 20px 40px;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    box-shadow:2px 5px 5px 10px #dad6d6;
+}
+
+.photo{
+    background-color: white;
+    padding: 10px;
+    width: 30%;
+    box-shadow:2px 5px 5px 10px #888888;
+    border-radius: 10px;
+}
+.social-follower{
+    background-color: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 33.3%;
+    text-align: center;
+    padding-left:10px;
+}
+.section6{
+background-color: black;
+color: lightgray;
+text-align: center;
+padding-top: 25px;
+padding-bottom: 25px;
+margin: 0px;
+}
+
+.margin1{
+    margin-left: 6%;
+}
+.margin{
+    margin-left: 5%;
+}
+
+.food-p{
+    margin-bottom: 15px;
+}
+.span-color{
+    color: rgb(216, 87, 12);
+}
+.front-size{
+    font-size:45px;
+}
+.for-p{
+    margin: 30px 0px ;
+    font-size:20px;
+}
+.for-p1{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    font-size:20px;
+    width: 250px;
+    justify-content: left;
+}
+
