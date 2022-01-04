@@ -20,7 +20,6 @@
     width: 50%;
     margin-top: 10%;
     justify-content: center;
-    margin-right: 5%;
 }
 .order{
     background-image: linear-gradient(to right,#FA9249,#FD4E30);
@@ -34,8 +33,7 @@
     padding-top: 2%;
     padding-left: 5%;
     justify-content: center;
-    margin-left: 5%;
-    width: 50%;
+    width: 45%;
 }
 .responsive{
     width: 100%;
@@ -135,7 +133,8 @@ margin: 0px;
     color: rgb(216, 87, 12);
 }
 .front-size{
-    font-size:45px;
+    font-size:300%;
+    text-align: left;
 }
 .for-p{
     margin: 30px 0px ;
