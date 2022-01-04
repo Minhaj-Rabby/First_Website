@@ -18,7 +18,7 @@
 }
 .section1-1{
     width: 50%;
-    margin-top: 50px;
+    margin-top: 10%;
     justify-content: center;
 }
 .order{
@@ -30,9 +30,10 @@
     padding: 10px;
 }
 .section1-2{
-    padding: 2%;
+    padding-top: 1.5%;
+    padding-left: 5%;
     justify-content: center;
-    width: 38%;
+    width: 40%;
 }
 .responsive{
     width: 100%;
