@@ -20,6 +20,7 @@
     width: 50%;
     margin-top: 10%;
     justify-content: center;
+    margin-right: 5%;
 }
 .order{
     background-image: linear-gradient(to right,#FA9249,#FD4E30);
@@ -34,7 +35,7 @@
     padding-left: 5%;
     justify-content: center;
     margin-left: 5%;
-    width: 38%;
+    width: 50%;
 }
 .responsive{
     width: 100%;
